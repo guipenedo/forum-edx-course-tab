@@ -31,6 +31,5 @@ setup(
         'openedx.course_tab': [
             'forumcoursetab = forumcoursetab:ForumCourseTab',
         ]
-    },
-    package_data=package_data("forumcoursetab"),
+    }
 )
